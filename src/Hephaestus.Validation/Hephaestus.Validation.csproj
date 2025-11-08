@@ -3,6 +3,8 @@
 	<PropertyGroup>
 		<TargetFramework>net8.0</TargetFramework>
 		<Nullable>disable</Nullable>
+    <RepositoryUrl>https://github.com/meegasmullage/Hephaestus.Validation</RepositoryUrl>
+    <PackageDescription>A simple, lightweight, and extensible validation library for .NET</PackageDescription>
 	</PropertyGroup>
 
 	<ItemGroup>
